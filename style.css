@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     background: whitesmoke;
-    background: linear-gradient(to right, #6479aa, #1367ed);
+    background: linear-gradient(to right, #6479aa, #0e60e3);
 }
 
 .calculator {
